@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+opencv-python-headless
+reportlab
+qrcode[pil]
+scipy
+matplotlib
+joblib
+pandas
+pillow
+numpy
