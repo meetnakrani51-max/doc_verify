@@ -4,3 +4,4 @@ python train.py        # trains model (uses dataset/genuine + dataset/forged if 
 streamlit run app.py
 # Doc-Verify
 # Doc-Verify
+# Doc-Verify
